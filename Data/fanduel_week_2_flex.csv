@@ -1,0 +1,45 @@
+Rank,Name,Team,Position,Week,Opponent,UpcomingOpponentRank,UpcomingOpponentPositionRank,FantasyPointsFanDuel,FantasyPointsPerDollarRatioFanDuel,FanShareProjectedOwnershipPercentage,Operator,OperatorSalary
+1,Aaron Rodgers,GB,QB,2,DET,28,16,23.29,1.55,null,FanDuel,15000
+2,Davante Adams,GB,WR,2,DET,28,26,19.15,1.37,null,FanDuel,14000
+3,Jared Goff,DET,QB,2,GB,27,32,16.05,1.28,null,FanDuel,12500
+4,Aaron Jones,GB,RB,2,DET,28,30,16.74,1.52,null,FanDuel,11000
+5,D'Andre Swift,DET,RB,2,GB,27,22,14.01,1.33,null,FanDuel,10500
+6,T.J. Hockenson,DET,TE,2,GB,27,30,10.9,1.09,null,FanDuel,10000
+7,Jamaal Williams,DET,RB,2,GB,27,22,8.82,0.93,null,FanDuel,9500
+8,Robert Tonyan,GB,TE,2,DET,28,20,8.59,0.95,null,FanDuel,9000
+9,Tyrell Williams,DET,WR,2,GB,27,13,0,0,null,FanDuel,8500
+10,Mason Crosby,GB,K,2,DET,28,31,7.9,0.99,null,FanDuel,8000
+11,Austin Seibert,DET,K,2,GB,27,17,6.85,0.91,null,FanDuel,7500
+12,Allen Lazard,GB,WR,2,DET,28,26,5.67,0.81,null,FanDuel,7000
+13,Kalif Raymond,DET,WR,2,GB,27,13,5.37,0.83,null,FanDuel,6500
+14,Marquez Valdes-Scantling,GB,WR,2,DET,28,26,8.71,1.45,null,FanDuel,6000
+14,Quintez Cephus,DET,WR,2,GB,27,13,5.32,0.89,null,FanDuel,6000
+16,Amon-Ra St. Brown,DET,WR,2,GB,27,13,6.06,1.1,null,FanDuel,5500
+16,Jordan Love,GB,QB,2,DET,28,16,0.33,0.06,null,FanDuel,5500
+18,AJ Dillon,GB,RB,2,DET,28,30,6.22,1.24,null,FanDuel,5000
+18,Randall Cobb,GB,WR,2,DET,28,26,5.45,1.09,null,FanDuel,5000
+20,Trinity Benson,DET,WR,2,GB,27,13,3.78,0.84,null,FanDuel,4500
+20,Amari Rodgers,GB,WR,2,DET,28,26,2.03,0.45,null,FanDuel,4500
+22,Marcedes Lewis,GB,TE,2,DET,28,20,1.97,0.49,null,FanDuel,4000
+22,Darren Fells,DET,TE,2,GB,27,30,1.54,0.38,null,FanDuel,4000
+24,Kylin Hill,GB,RB,2,DET,28,30,1.25,0.36,null,FanDuel,3500
+24,Malik Taylor,GB,WR,2,DET,28,26,0.67,0.19,null,FanDuel,3500
+26,Dominique Dafney,GB,TE,2,DET,28,20,1.07,0.36,null,FanDuel,3000
+26,David Blough,DET,QB,2,GB,27,32,0.83,0.28,null,FanDuel,3000
+26,KhaDarel Hodge,DET,WR,2,GB,27,13,0.62,0.21,null,FanDuel,3000
+26,Godwin Igwebuike,DET,RB,2,GB,27,22,0.21,0.07,null,FanDuel,3000
+26,Tom Kennedy,DET,WR,2,GB,27,13,0.08,0.03,null,FanDuel,3000
+26,Jared Pinkney,DET,TE,2,GB,27,30,0.02,0.01,null,FanDuel,3000
+26,Jace Sternberger,GB,TE,2,DET,28,20,0,0,null,FanDuel,3000
+26,Tim Boyle,DET,QB,2,GB,27,32,0,0,null,FanDuel,3000
+26,Patrick Taylor,GB,RB,2,DET,28,30,0,0,null,FanDuel,3000
+26,Josiah Deguara,GB,TE,2,DET,28,20,0,0,null,FanDuel,3000
+26,Equanimeous St. Brown,GB,WR,2,DET,28,26,0,0,null,FanDuel,3000
+26,Juwann Winfree,GB,WR,2,DET,28,26,0,0,null,FanDuel,3000
+26,Geronimo Allison,DET,WR,2,GB,27,13,0,0,null,FanDuel,3000
+26,Jermar Jefferson,DET,RB,2,GB,27,22,0,0,null,FanDuel,3000
+26,Craig Reynolds,DET,RB,2,GB,27,22,0,0,null,FanDuel,3000
+26,Steven Montez,DET,QB,2,GB,27,32,0,0,null,FanDuel,3000
+26,Hunter Bryant,DET,TE,2,GB,27,30,0,0,null,FanDuel,3000
+26,Kurt Benkert,GB,QB,2,DET,28,16,0,0,null,FanDuel,3000
+26,Charlie Taumoepeau,DET,TE,2,GB,27,30,0,0,null,FanDuel,3000
